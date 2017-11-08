@@ -1,0 +1,177 @@
+﻿<TaskOne>
+	<Title>Verber</Title>
+	<Explanation>At ville eller kunne - хотеть eller мочь. Indsæt den rigtige form.</Explanation>
+	<Questions>
+		<Question>
+			Миша, ты 
+				<Option>
+					<Choice correct="0">хочу</Choice>
+					<Choice correct="1">хочешь</Choice>
+					<Choice correct="0">хочет</Choice>
+					<Choice correct="0">хотим</Choice>
+					<Choice correct="0">хотите</Choice>
+					<Choice correct="0">хотят</Choice>
+				</Option> 
+			конфету?
+		</Question>
+		<Question>
+			да очень 
+				<Option>
+					<Choice correct="1">могу</Choice>
+					<Choice correct="0">можешь</Choice>
+					<Choice correct="0">может</Choice>
+					<Choice correct="0">можем</Choice>
+					<Choice correct="0">можете</Choice>
+					<Choice correct="0">могут</Choice>
+				</Option>
+			.
+		</Question>
+		<Question>
+			Миша, ты думаешь, что Катя 
+				<Option>
+					<Choice correct="0">могу</Choice>
+					<Choice correct="0">можешь</Choice>
+					<Choice correct="1">может</Choice>
+					<Choice correct="0">можем</Choice>
+					<Choice correct="0">можете</Choice>
+					<Choice correct="0">могут</Choice>
+				</Option> 
+			конфету?
+		</Question>
+		<Question>
+			Я думаешь, что она не 
+				<Option>
+					<Choice correct="0">могу</Choice>
+					<Choice correct="0">можешь</Choice>
+					<Choice correct="1">может</Choice>
+					<Choice correct="0">можем</Choice>
+					<Choice correct="0">можете</Choice>
+					<Choice correct="0">могут</Choice>
+				</Option>
+			, потому что она думает о своей фигуре.
+		</Question>
+		<Question>
+			Ян, вы 
+				<Option>
+					<Choice correct="0">хочу</Choice>
+					<Choice correct="0">хочешь</Choice>
+					<Choice correct="0">хочет</Choice>
+					<Choice correct="0">хотим</Choice>
+					<Choice correct="1">хотите</Choice>
+					<Choice correct="0">хотят</Choice>
+					<Choice correct="0">могу</Choice>
+					<Choice correct="0">можешь</Choice>	
+					<Choice correct="0">может</Choice>
+					<Choice correct="0">можем</Choice>
+					<Choice correct="1">можете</Choice>
+					<Choice correct="0">могут</Choice>
+				</Option> 
+			работать утром, днём и вечером?
+		</Question>
+		<Question>
+			Да, я 
+				<Option>
+					<Choice correct="1">могу</Choice>
+					<Choice correct="0">можешь</Choice>
+					<Choice correct="0">может</Choice>
+					<Choice correct="0">можем</Choice>
+					<Choice correct="0">можете</Choice>
+					<Choice correct="0">могут</Choice>
+				</Option>
+			. А вы, Катя?
+		</Question>
+		<Question>
+			Я 
+				<Option>
+					<Choice correct="1">хочу</Choice>
+					<Choice correct="0">хочешь</Choice>
+					<Choice correct="0">хочет</Choice>
+					<Choice correct="0">хотим</Choice>
+					<Choice correct="0">хотите</Choice>
+					<Choice correct="0">хотят</Choice>
+				</Option>
+			, но не 
+				<Option>
+					<Choice correct="1">могу</Choice>
+					<Choice correct="0">можешь</Choice>
+					<Choice correct="0">может</Choice>
+					<Choice correct="0">можем</Choice>
+					<Choice correct="0">можете</Choice>
+					<Choice correct="0">могут</Choice>
+				</Option>
+			.
+		</Question>
+		<Question>
+			Борис Николаевич, что вы 
+				<Option>
+					<Choice correct="0">хочу</Choice>
+					<Choice correct="0">хочешь</Choice>
+					<Choice correct="0">хочет</Choice>
+					<Choice correct="0">хотим</Choice>
+					<Choice correct="1">хотите</Choice>
+					<Choice correct="0">хотят</Choice>
+					<Choice correct="0">могу</Choice>
+					<Choice correct="0">можешь</Choice>
+					<Choice correct="0">может</Choice>
+					<Choice correct="0">можем</Choice>
+					<Choice correct="1">можете</Choice>
+					<Choice correct="0">могут</Choice>
+				</Option> 
+			пить?
+		</Question>
+		<Question>
+			Я 
+				<Option>
+					<Choice correct="1">хочу</Choice>
+					<Choice correct="0">хочешь</Choice>
+					<Choice correct="0">хочет</Choice>
+					<Choice correct="0">хотим</Choice>
+					<Choice correct="0">хотите</Choice>
+					<Choice correct="0">хотят</Choice>
+					<Choice correct="1">могу</Choice>
+					<Choice correct="0">можешь</Choice>
+					<Choice correct="0">может</Choice>
+					<Choice correct="0">можем</Choice>
+					<Choice correct="0">можете</Choice>
+					<Choice correct="0">могут</Choice>
+				</Option> 
+			пить кофе.
+		</Question>
+		<Question>
+			А вы, Тамара Петровна, вы тоже 
+				<Option>
+					<Choice correct="0">хочу</Choice>
+					<Choice correct="0">хочешь</Choice>
+					<Choice correct="0">хочет</Choice>
+					<Choice correct="0">хотим</Choice>
+					<Choice correct="1">хотите</Choice>
+					<Choice correct="0">хотят</Choice>
+					<Choice correct="0">могу</Choice>
+					<Choice correct="0">можешь</Choice>
+					<Choice correct="0">может</Choice>
+					<Choice correct="0">можем</Choice>
+					<Choice correct="1">можете</Choice>
+					<Choice correct="0">могут</Choice>
+				</Option> 
+			кофе?
+		</Question>
+		<Question>
+			Спасибо, я не 
+				<Option>
+					<Choice correct="1">хочу</Choice>
+					<Choice correct="0">хочешь</Choice>
+					<Choice correct="0">хочет</Choice>
+					<Choice correct="0">хотим</Choice>
+					<Choice correct="0">хотите</Choice>
+					<Choice correct="0">хотят</Choice>
+					<Choice correct="1">могу</Choice>
+					<Choice correct="0">можешь</Choice>
+					<Choice correct="0">может</Choice>
+					<Choice correct="0">можем</Choice>
+					<Choice correct="0">можете</Choice>
+					<Choice correct="0">могут</Choice>
+				</Option> 
+			пить кофе сегдня. Я больна.
+		</Question>
+	</Questions>
+</TaskOne>
